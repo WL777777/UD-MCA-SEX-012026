@@ -4,3 +4,18 @@
 4-Trabalha ? Sim, mas não na área. 
 5-Objetivo: Meu Objetivo é trabalhar como Engenheiro De Software e unir minha paixão por tecnologia e aprimorar meus negócios e principalmente com o desejo de crescer profissionalmente. 
 6-Bairro: Parque São Jorge
+
+1-Nome Completo: Wallace Lins Da Silva
+2-RA: 824138734
+3-Curso: Eng. de Software
+4-Trabalha ? Sim, na área de RPA's dentro da CSN(Companhia Siderúrgica Nacional). 
+5-Objetivo: Atuar como Engenheiro de Software em alguma empresa de alta performance no mercado. 
+6-Bairro: Penha
+
+1-Nome Completo: Raul Borges de Salles Rocha
+2-RA: 824146929
+3-Curso: Eng. de Software
+4-Trabalha ? Sim, porém não atuo ainda na área de programação. 
+5-Objetivo: Desenvolver minha carreira como Engenheiro de Software em uma empresa de alta performance, contribuindo para soluções inovadoras e resultados estratégicos. 
+6-Bairro: Jardim Ponte Rasa
+
