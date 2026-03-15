@@ -1,0 +1,86 @@
+/* estilo geral da página */
+body {
+  background-color: #f4f4f4;
+  font-family: Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+/* cabeçalho com cor diferente e centralizado */
+header {
+  background-color: #003366;
+  color: white;
+  text-align: center;
+  padding: 30px 20px;
+}
+
+header img {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border: 4px solid white;
+}
+
+header h1 {
+  margin: 10px 0 5px;
+  font-size: 2rem;
+}
+
+header p {
+  margin: 0;
+  font-size: 1rem;
+  opacity: 0.85;
+}
+
+/* área principal com espaçamento */
+main {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 0 20px;
+}
+
+/* seções com destaque visual */
+.destaque {
+  background-color: white;
+  padding: 20px 25px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+.destaque h2 {
+  color: #003366;
+  margin-top: 0;
+  border-bottom: 2px solid #003366;
+  padding-bottom: 8px;
+}
+
+.destaque ul {
+  padding-left: 20px;
+  line-height: 1.8;
+}
+
+/* cor dos links alterada */
+a {
+  color: #0055aa;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #003366;
+}
+
+/* rodapé simples */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #003366;
+  color: white;
+  font-size: 0.85rem;
+  margin-top: 10px;
+}
